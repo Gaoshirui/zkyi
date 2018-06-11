@@ -1,0 +1,24 @@
+{
+    "name": "zkyi",
+    "version": "1.0.0",
+    "description": "",
+    "main": "gulpfile.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "gulp dev",
+        "bulid": "gulp bulid"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Gaoshirui/zkyi.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Gaoshirui/zkyi/issues"
+    },
+    "homepage": "https://github.com/Gaoshirui/zkyi#readme",
+    "devDependencies": {
+        "gulp": "^3.9.1"
+    }
+}
